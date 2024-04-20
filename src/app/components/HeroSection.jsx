@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Step into my portfolio, a comprehensive showcase of my expertise, education, and achievements. Here, you&apos;ll find a diverse array of applications, spanning from university assignments to personal projects. I specialize in crafting dynamic web applications, standalone software, and cutting-edge machine learning algorithms, and much more.
-
+          Step into my portfolio, a comprehensive showcase of my expertise, education, and achievements. Here, you&lsquo;ll find a diverse array of applications, spanning from university assignments to personal projects. I specialize in crafting dynamic web applications, standalone software, and cutting-edge machine learning algorithms, and much more.
           </p>
           <div>
             <Link
