@@ -22,13 +22,13 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Judy",
+                "Zeeshan",
                 1000,
-                "Web Developer",
+                "Software Engineer",
                 1000,
-                "Mobile Developer",
+                "Mobile & Web Developer",
                 1000,
-                "UI/UX Designer",
+                "Machine Learning",
                 1000,
               ]}
               wrapper="span"
@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          Step into my portfolio, a comprehensive showcase of my expertise, education, and achievements. Here, you'll find a diverse array of applications, spanning from university assignments to personal projects. I specialize in crafting dynamic web applications, standalone software, and cutting-edge machine learning algorithms and much more.
           </p>
           <div>
             <Link
