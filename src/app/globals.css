@@ -18,13 +18,13 @@
 
 @keyframes gradientAnimation {
   0% {
-    background-position: 0% 50%;
+    background-position: 0% 0%, 50%;
   }
   50% {
-    background-position: 100% 50%;
+    background-position: 100% 100%, 50%;
   }
   100% {
-    background-position: 0% 50%;
+    background-position: 0% 0%, 50%;
   }
 }
 
@@ -33,11 +33,12 @@ body {
   background: linear-gradient(
       to bottom,
       transparent,
-      rgb(var(--background-end-rgb))
+      rgb(0, 0, 0) /* Start with transparent and end with purple */
     )
-    rgb(var(--background-start-rgb));
-  background-size: 200% 200%;
+    rgb(29, 1, 36); /* Set the background color to purple */
+  background-size: 400% 400%, 100% 100%; /* Include depth dimension for a 3D effect */
   animation: gradientAnimation 10s ease infinite; /* Adjust the animation duration as needed */
+
 }
 
 .blur-on-hover {
