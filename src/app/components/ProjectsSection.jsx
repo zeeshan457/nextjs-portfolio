@@ -16,11 +16,11 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "CyberFlowGuard",
-    description: "An SAAS product helping users to secure their network from cyber attacks. It provides a real-time monitoring system to detect and prevent cyber attacks. It also provides a dashboard to visualize the network traffic and security status.",
-    image: "/images/projects/2.png",
+    title: "ReviseAI",
+    description: "ReviseWise is an SAAS based AI-powered academic revision and task management platform designed to help students efficiently prepare for exams and manage their study schedules. It combines advanced AI chat capabilities with intuitive task management features to streamline the revision process..",
+    image: "/images/projects/ReviseAI.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/zeeshan457/CyberFlowGuard",
+    gitUrl: "https://github.com/zeeshan457d",
     previewUrl: "/",
   },
   {
