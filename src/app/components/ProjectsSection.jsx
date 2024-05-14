@@ -11,7 +11,7 @@ const projectsData = [
     description: "This system recommends equities to investors based on metrics; the metrics come from historical data and are managed by the system to process them. As a result, this application will help market players with investments.",
     image: "/images/projects/stock_processing.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/zeeshan457/Stocks-Processing-Web-Application",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     description: "ReviseWise is an SAAS based AI-powered academic revision and task management platform designed to help students efficiently prepare for exams and manage their study schedules. It combines advanced AI chat capabilities with intuitive task management features to streamline the revision process..",
     image: "/images/projects/ReviseAI.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/zeeshan457d",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "The Autonomous Flight Control Drone project is an innovative and challenging endeavour that aims to develop an intelligent drone capable of flying autonomously, navigating through predefined waypoints, and avoiding obstacles in real-time. The drone will utilize cutting-edge Java programming.",
     image: "/images/projects/drone_application.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/zeeshan457/Autonomous_Flight_Control_System",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -38,7 +38,7 @@ const projectsData = [
     description: "Due to the ongoing pandemic, all university employees are now advised to reserve their desks while returning to campus. The goal of this project is to develop a desktop application that allows university staff to reserve desks in university buildings. There will be three buildings, each of which will include a number of desks that can be reserved, with some of these desks having unique features. The software must include a front end, a back end (for data storage), and an application layer – a three-tier design is required.",
     image: "/images/projects/manager.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/zeeshan457/Java-Projects/tree/main/Desk_Booking_Application",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -47,7 +47,7 @@ const projectsData = [
     description: "The login Multi-Factor Authentication (MFA) system with SMS and email authentication adds an extra layer of security to the traditional login process. With MFA, users are required to provide two or more authentication factors to prove their identity, making it much harder for attackers to gain unauthorized access to user accounts.",
     image: "/images/projects/loginMFA.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/zeeshan457/Login_MFA_System",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -56,7 +56,7 @@ const projectsData = [
     description: "An effective mobile application that allows users to search for locations like cities, countries, or famous landmarks using a search map to query a map interface Locations can also be saved and navigated to externally.",
     image: "/images/projects/mobile_app_search.png",
     tag: ["All", "Mobile"],
-    gitUrl: "https://github.com/zeeshan457/SearchGoogleMap",
+    gitUrl: "/",
     previewUrl: "/",
   },
 ];
