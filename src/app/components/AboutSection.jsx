@@ -26,7 +26,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>University of Bradford, BEng Software Engineering, First Class Honours</li>
+        <li>Bachelors in Software Engineering, First Class Honours</li>
       </ul>
     ),
   },
